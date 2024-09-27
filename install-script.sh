@@ -1,5 +1,5 @@
 #! /bin/bash
-# Install Script Linux VM in Azure
+# Install Script for Linux VM in Azure
 # What every you do below goes to the Azure Snapshot
 
 # Trap any error (any command exits with non-zero status)

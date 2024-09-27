@@ -1,7 +1,7 @@
 #! /bin/bash
 
-# Script that will run after booting an Azure topology from Snapshot
-# Script shall deploy the flags and prepare the VM per user
+# Post Install Script that will run after booting an Azure topology from Snapshot
+# Post Install Script shall deploy the flags and prepare the VM per user
 
 # Trap any error (any command exits with non-zero status)
 trap 'catch' ERR
